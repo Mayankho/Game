@@ -11,6 +11,6 @@ More info about the game: [wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_o
 
 Implementation of Conway's game is done in JavaScript using React.js
 
-
+MVP
 
 ![](gol-giphy.gif)
